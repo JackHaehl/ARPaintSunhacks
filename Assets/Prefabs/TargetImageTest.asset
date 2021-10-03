@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: TargetImageTest
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5117661881934271503
+  m_GuidHigh: 7891244762159591606
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4822330469101921439
+      m_GuidHigh: 11419210681202079935
+    m_SerializedTextureGuid:
+      m_GuidLow: 1852354727124047543
+      m_GuidHigh: 1267475184234578474
+    m_Size: {x: 0.093, y: 0.093}
+    m_SpecifySize: 1
+    m_Name: ARTarget
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4830901616575318984
+      m_GuidHigh: 14372387962468847259
+    m_SerializedTextureGuid:
+      m_GuidLow: 2915133323359084756
+      m_GuidHigh: 8446193287832208250
+    m_Size: {x: 0.05, y: 0.07022901}
+    m_SpecifySize: 1
+    m_Name: SunHBlock
+    m_Texture: {fileID: 0}
